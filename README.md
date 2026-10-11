@@ -12,6 +12,3 @@ A simple Python application to manage student grades.
 ## Technologies
 - Python
 - JSON
-
-## Author
-Anas Alem
